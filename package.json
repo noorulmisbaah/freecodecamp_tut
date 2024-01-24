@@ -1,3 +1,4 @@
 {
-	"author": "Aminu Adamu Aminu"
+	"author": "Aminu Adamu Aminu",
+	"start": "node server.js"
 }
